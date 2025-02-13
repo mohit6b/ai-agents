@@ -1,5 +1,5 @@
 # ai-agents
-# Food Ordering Assistant
+# Food Ordering Assistant and Telegram Auto-Responder
 
 This repository contains 2 AI-Agents:
 1. Telegram Auto-responder fro lunch planning with friends - a python script that enables telegram to respond automatically
